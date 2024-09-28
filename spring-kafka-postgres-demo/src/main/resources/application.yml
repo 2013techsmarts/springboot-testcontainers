@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/mydb
+    username: myuser
+    password: mypassword
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+      properties:
+        hibernate.dialect: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: true
+
+kafka:
+  bootstrap-servers: localhost:9092
+  consumer:
+    group-id: message_group
+    auto-offset-reset: earliest

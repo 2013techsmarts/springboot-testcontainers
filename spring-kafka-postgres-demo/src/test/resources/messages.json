@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "content": "This is the first sample message"
+  },
+  {
+    "id": 2,
+    "content": "Learning Java 17 records is fun!"
+  },
+  {
+    "id": 3,
+    "content": "Spring Boot makes Java development easier"
+  },
+  {
+    "id": 4,
+    "content": "Testcontainers simplifies integration testing"
+  },
+  {
+    "id": 5,
+    "content": "Kafka and PostgreSQL integration works smoothly"
+  },
+  {
+    "id": 6,
+    "content": "JPA allows ORM mapping with ease"
+  },
+  {
+    "id": 7,
+    "content": "Using Docker containers for services is efficient"
+  },
+  {
+    "id": 8,
+    "content": "JSON is a widely used data format for APIs"
+  },
+  {
+    "id": 9,
+    "content": "Unit testing improves code quality"
+  },
+  {
+    "id": 10,
+    "content": "Java 17 records are great for immutable data models"
+  }
+]
